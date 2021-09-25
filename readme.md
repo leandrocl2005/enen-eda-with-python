@@ -4,7 +4,21 @@ Neste projeto estudaremos os cinco principais gráficos para uma análise explor
 
 Para tal tarefa utilizaremos o conjunto de dados do Enem e as bibliotecas Pandas e Matplotlib escritas na linguagem de programação Python.
 
-O estudo será guiado por perguntas sobre o conjunto de dados considerado.
+O estudo será guiado por perguntas sobre o conjunto de dados considerado. Escolhemos como tema "Educação Inclusiva".
+
+<h1 align="center">
+  <img alt="Tema do EDA" src="./tema_eda.png" width="600px"/>
+</h1>
+
+## Ambiente Windows e MAC
+
+- Faça o download do Anaconda Python 3.8 nesse <a href="https://www.anaconda.com/products/individual#Downloads">link</a>
+- Instale o Anaconda Python 3.8
+- Busque no seu sistema por Jupyter Notebook
+- Abra o Jupyter Notebook
+- Já no Jupyter Notebook, clique em *new* e depois em *Python 3* para criar seu primeiro kernel.
+- Clique em *File*, depois em *Rename* e dê o nome de *eda-parte-01-matplotlib*.
+
 
 ## Ambiente (Ubuntu 20.04)
 
