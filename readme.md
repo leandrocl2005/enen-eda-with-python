@@ -38,6 +38,13 @@ Para começar, basta acessar o notebook *eda-parte-01-matplotlib.ipynb* deste re
   <img alt="Matplotlib Charts" src="./matplotlib.png" width="600px"/>
 </h1>
 
+## Atualização com dados do Enem 2021
+
+<h1 align="center">
+  <img alt="Matplotlib Charts" src="./enem_2021_storyteller.jpg" width="600px"/>
+</h1>
+
+
 
 Bons estudos!
 
